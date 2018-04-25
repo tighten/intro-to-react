@@ -5,6 +5,9 @@ class Exercise extends Component {
     super();
 
     // Set initial state here
+    this.state = {
+      text: ''
+    }
   }
 
   updateText(e) {
