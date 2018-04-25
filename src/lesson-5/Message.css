@@ -1,0 +1,11 @@
+.message {
+    padding-bottom: 20px;
+}
+
+.text {
+    margin-right: 20px;
+}
+
+.important {
+    background-color: yellow;
+}
